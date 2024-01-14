@@ -1,7 +1,7 @@
 # Aspiring Data Scientist
 
 ## About Me
-I am a passionate student currently studying in Tripoli at Hajee Mohammad Danish Science and Technology University. My main focus is on Machine Learning and Artificial Intelligence.
+I am a passionate student currently studying in EEE at Hajee Mohammad Danish Science and Technology University. My main focus is on Machine Learning and Artificial Intelligence.
 
 ## Certifications
 - Google Data Analytics Professional Certificate
